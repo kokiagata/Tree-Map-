@@ -1,0 +1,46 @@
+body {
+    text-align: center;
+      background-color: #1B2631;
+    }
+    
+    h1 {
+      color: white;
+      font-family: Helvetica;
+      font-size: 50px;
+    }
+    
+    #description {
+      padding-bottom: 20px;
+      margin-top: -20px;
+      color: white;
+      font-size: 20px;
+      font-family: Helvetica
+    }
+    
+    svg{
+      background-color: #1B2631;
+    }
+    
+    .movie-names{
+      font-size: 15px;
+      font-family: Helvetica;
+    }
+    
+    #legend{
+      position: absolute;
+      
+    }
+    
+    .movies {
+      font-family: Helvetica;
+    }
+    
+    #tooltip {
+      position: absolute;
+      background-color: #FCF3CF;
+      padding: 10px;
+      border-radius: 3px;
+      text-align: left;
+      font-family: Helvetica;
+      
+    }
